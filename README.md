@@ -10,7 +10,7 @@ A fun and colorful Tic Tac Toe game built with **Python Tkinter**, offering both
 
 
 ## 📸 Screenshot
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](screenshot.png)
 
 ---
 
